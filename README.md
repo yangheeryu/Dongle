@@ -13,7 +13,7 @@ It is designed especially for Hangeul(Korean script) but it includes Latin scrip
 
 Dongle(동글) is a revised name of Dongle Hangeul(동글한글) which was released in 2012.
 
-It consists of a full set of modern Hangeul syllables(11,172 characters), Google Latin core set and some of the symbols in KS X 1001. 
+It consists of a full set of modern Hangeul syllables(11,172 characters), Google Latin core set, and some of the symbols in KS X 1001. 
 
 Some of the Latin characters and KS symbols are refined for this version in 2020.
 
