@@ -4,7 +4,7 @@
 ![Dongle_Image2](Documentation/Dogle_Image2.jpg)
 
 
-Dongle(동글) is a rounded sans-serif typeface for display.It is a modular Hangeul with the de-square frame, creating a playful and rhythmic movement. The name, Dongle(동글) comes from a Korean onomatopoeia, meaning 'rounded or curved shape(with adorable impression)’. 
+Dongle(동글) is a rounded sans-serif typeface for display. It is a modular Hangeul with the de-square frame, creating a playful and rhythmic movement. The name, Dongle(동글) comes from a Korean onomatopoeia, meaning 'rounded or curved shape(with adorable impression)’. 
 
 Dongle was originally designed as a 'Jamo(consonant and vowel in Hangeul) typing module' for the author's student project. Later it revised into ‘syllabic module’ to be released to the public. As the character size varies according to the syllable structure, Dongle typeface is much smaller compared to other square frame Korean typefaces. Therefore, it is better to adjust the font size visually to your liking, rather than relying on the point size of the editing program.
 
