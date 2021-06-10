@@ -1,4 +1,4 @@
-Copyright 2020 The Dongle Project Authors (https://github.com/yangheeryu/Dongle) 
+Copyright 2021 The Dongle Project Authors (https://github.com/yangheeryu/Dongle) 
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
