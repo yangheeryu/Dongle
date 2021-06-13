@@ -16,7 +16,7 @@ It consists of a full set of modern Hangeul syllables(11,172 characters), Google
 
 - Dongle Hangeul Light, Medium, Bold were released in 2012.
 - Some of the Latin alphabets and symbols are revised for Ver.2.0 in 2020.
-- Font weight name is changed to Light, Regular, Bold in Ver.2.0  
+- Medium weight renamed to Regular in Ver.2.0  
 
 ## Designer
 Yanghee Ryu
